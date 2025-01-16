@@ -43,6 +43,4 @@ This project can be easily deployed to Vercel, Netlify, or other platforms suppo
 - Tailwind CSS
 - React
 
-## Contact
-[Your Email]
-[Your LinkedIn]
+
